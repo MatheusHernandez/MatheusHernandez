@@ -1,4 +1,4 @@
-## Hiii, I'm Matheus and I'm currently studying programming
+## Hiii, I'm Matheus and I'm currently studying with ALURA
 
 <div align="center">
   <a href="https://github.com/MatheusHernandez">
